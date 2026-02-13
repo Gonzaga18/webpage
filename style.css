@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+/* Sets the font and background */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+
+/* Styles the header */
+header {
+  background-color: #ff8800;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+}
+
+
+header h1 {
+  font-family: 'Impact', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.header-logo {
+  max-width: 80px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+
+/* Styles the navigation links */
+nav {
+  margin: 20px 0;
+  text-align: center;
+}
+
+
+nav a {
+  text-decoration: s;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+
+/* Main content area */
+main {
+  background: #ff8800;
+  padding: 20px;
+  border-radius: 8px;
+}
